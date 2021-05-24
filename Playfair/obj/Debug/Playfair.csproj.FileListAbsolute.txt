@@ -1,0 +1,10 @@
+C:\Users\UserName\source\repos\Playfair\Playfair\bin\Debug\Playfair.exe.config
+C:\Users\UserName\source\repos\Playfair\Playfair\bin\Debug\Playfair.exe
+C:\Users\UserName\source\repos\Playfair\Playfair\bin\Debug\Playfair.pdb
+C:\Users\UserName\source\repos\Playfair\Playfair\obj\Debug\Playfair.csprojAssemblyReference.cache
+C:\Users\UserName\source\repos\Playfair\Playfair\obj\Debug\Playfair.Form1.resources
+C:\Users\UserName\source\repos\Playfair\Playfair\obj\Debug\Playfair.Properties.Resources.resources
+C:\Users\UserName\source\repos\Playfair\Playfair\obj\Debug\Playfair.csproj.GenerateResource.cache
+C:\Users\UserName\source\repos\Playfair\Playfair\obj\Debug\Playfair.csproj.CoreCompileInputs.cache
+C:\Users\UserName\source\repos\Playfair\Playfair\obj\Debug\Playfair.exe
+C:\Users\UserName\source\repos\Playfair\Playfair\obj\Debug\Playfair.pdb
